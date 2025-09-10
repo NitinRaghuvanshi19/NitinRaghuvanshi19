@@ -34,8 +34,8 @@ I'm **Nitin**, a passionate **data scientist** and **machine learning enthusiast
 [<img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" width="50">](#)
 
 ## **GitHub Stats:**
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=radical)
-![Nishant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=radical)
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinRaghuvanshi19&show_icons=true&theme=radical)
+![Nitin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitinRaghuvanshi19&theme=radical)
 
 ## **Connect with me:**
 
